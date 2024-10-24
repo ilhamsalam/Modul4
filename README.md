@@ -1,5 +1,5 @@
-# Latihan modul 3
-Penjelasan singkat pada tiap latihan soal modul 3
+# Latihan modul 4
+Penjelasan singkat pada tiap latihan soal modul 4
 
 ## Setiap soal
 Pada setiap soal saya menggunakan beberapa komponen :
